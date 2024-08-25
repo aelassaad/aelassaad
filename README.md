@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am currently teaching EECS1030, EECS2500, and EECS4950
 
 <!--
 **aelassaad/aelassaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
